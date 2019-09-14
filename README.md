@@ -1,4 +1,5 @@
 # hello-world
 1st project
 
-1st attempt on GitHub
+Trying something new!!
+Updating the ReadMe and requesting to pull the changes.
